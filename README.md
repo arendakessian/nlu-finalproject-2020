@@ -4,6 +4,6 @@
 
 <b> Contributors: </b> <br/>
 Aren Dakessian <br/>
-Sue Rai <br/>
+Sumedha Rai <br/>
 Jesse Swanson <br/>
 Ilana Weinstein
